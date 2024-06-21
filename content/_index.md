@@ -24,6 +24,21 @@ title= "Founding documents"
 [[extra.sidebar.links]]
 title= 'Linux Foundation Launches Open Source Valkey Community'
 url= "https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community"
+[[extra.sidebar.links]]
+title= 'Project governance'
+url= "https://github.com/valkey-io/valkey/blob/unstable/GOVERNANCE.md"
+
+
+[[extra.sidebar]]
+title= "Get involved"
+[[extra.sidebar.links]]
+title= 'Contribute to Valkey'
+url= "https://github.com/valkey-io/valkey/blob/unstable/CONTRIBUTING.md"
+
+[[extra.sidebar.links]]
+title= 'Write about Valkey'
+url= "https://github.com/valkey-io/valkey-io.github.io/blob/main/CONTRIBUTING-BLOG-POST.md"
+
 
 +++
 
